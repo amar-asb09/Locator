@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/send_one_click"
+        android:title="@string/Get_Location"/>
+    <item
+        android:id="@+id/option_get_place"
+        android:title="@string/option_get_place"
+        />
+    <item
+        android:id="@+id/send_via"
+        android:title="@string/send_via"
+        />
+    <item
+        android:id="@+id/enquiry"
+        android:title="@string/Enquiry"
+        />
+    <item android:id="@+id/quick_send"
+        android:title="@string/quick_send"/>
+    <item
+        android:id="@+id/btn_signout"
+        android:title="@string/btn_sign_out"
+        />
+</menu>
